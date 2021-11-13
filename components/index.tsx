@@ -14,6 +14,7 @@ export const Item = styled.div<{ img: string }>`
   padding: 100px;
   background-image: ${(props) => `url(${props.img})`};
   background-size: cover;
+  height: 100%;
 `;
 
 export const CarouselContainer = styled.div<{ sliding: boolean }>`
