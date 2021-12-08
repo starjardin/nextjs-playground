@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^0.5.2-next.19",
-    "@prisma/client": "^3.4.2",
+    "@prisma/client": "^3.5.0",
     "@types/styled-components": "^5.1.15",
     "next": "12",
     "next-auth": "^4.0.0-beta.6",
